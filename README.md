@@ -1,5 +1,5 @@
 ### Hi there 👋
-<Img src='[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJtc2gxbDZlNml5MWxjbzVlN2tmOHBwcjRkaWZjaHkzZG00YnJlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vfwtY57mFwFRzBQK3D/giphy-downsized-large.gif](https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp)'>
+<Img src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp'>
 <!--
 **thetubbydoughnut/thetubbydoughnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
