@@ -1,5 +1,5 @@
-### Hi there 👋
 <Img src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp'>
+### Hi there 👋
 <!--
 **thetubbydoughnut/thetubbydoughnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
