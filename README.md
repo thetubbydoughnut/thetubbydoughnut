@@ -1,4 +1,4 @@
-![banner](src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp')
+<Img src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp'>
 ### Hi there 👋
 
 I am currently learning Full Stack Web development
