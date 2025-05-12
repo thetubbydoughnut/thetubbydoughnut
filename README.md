@@ -1,3 +1,4 @@
+<img src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp' style="width: 100%; height: auto; display: block;" alt="Full width Giphy" />
 <h1 align="center">Hi 👋, I'm Cameron Graham</h1>
 <h3 align="center">A passionate full stack developer based out of Oklahoma</h3>
 
