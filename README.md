@@ -1,6 +1,6 @@
 <Img src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp'>
 <h1 align="center">Hi 👋, I'm Cameron Graham</h1>
-<h3 align="center">A passionate frontend developer from Oklahoma</h3>
+<h3 align="center">A passionate fullstack developer based in Oklahoma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetubbydoughnut&label=Profile%20views&color=0e75b6&style=flat" alt="thetubbydoughnut" /> </p>
 
@@ -8,19 +8,19 @@
 
 - 🔭 I’m currently learning **Full stack Web Development, and Game Design**
 
-- 🌱 I’m currently learning **React, Javascript, Html, CSS**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Anything Web Development and Modding Games**
 
-- 🤝 I’m looking for help with **Learning Game Design**
+- 🤝 I’m looking for help with **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thetubbydoughnut?tab=repositories](https://github.com/thetubbydoughnut?tab=repositories)
 
-- 💬 Ask me about **React, Video Games, Web Development or Music**
+- 💬 Ask me about **AI, Video Games, Web Development or Music**
 
 - 📫 How to reach me **thetubbydoughnut@gmail.com**
 
-- ⚡ Fun fact **I Produce Music**
+- ⚡ Fun facts **I follow AI Development for fun and I Produce Music in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
