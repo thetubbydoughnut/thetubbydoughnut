@@ -1,4 +1,4 @@
-<img src='https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp' style="width: 100%; height: auto; display: block;" alt="Full width Giphy" />
+<img src='[https://i.giphy.com/vfwtY57mFwFRzBQK3D.webp](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxjeW00dzYzZGdqZmZ1c3Jrd2oyaHo0ZXUwbXUyYm1veGJjZ2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B290DB1XWfbSnJpDCj/giphy.gif)' style="width: 100%; height: auto; display: block;" alt="Full width Giphy" />
 <h1 align="center">Hi 👋, I'm Cameron Graham</h1>
 <h3 align="center">A passionate full stack developer based out of Oklahoma</h3>
 
